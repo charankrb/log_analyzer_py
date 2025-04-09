@@ -1,0 +1,20 @@
+{
+    "success_samples": [
+        {
+        "input": {
+            "text": "The quick brown fox jumps over the lazy dog."
+        },
+        "output": {
+            "text": "The quick brown fox jumps over the lazy dog."
+        }
+        },
+        {
+        "input": {
+            "text": " This is Sample text"
+        },
+        "output": {
+            "text": "This is Smaple text"
+        }
+        }
+    ]
+}
